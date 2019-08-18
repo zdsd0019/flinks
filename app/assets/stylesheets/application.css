@@ -13,3 +13,6 @@
  *= require_tree .
  *= require_self
  */
+
+ @media (min-width: 768px) {
+        .flinksconnect { width: 100%; } }
